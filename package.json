@@ -19,6 +19,6 @@
   "homepage": "https://github.com/kcummings1/tictactoe_sockets.io#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
